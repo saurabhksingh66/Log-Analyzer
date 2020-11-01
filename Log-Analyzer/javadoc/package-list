@@ -1,0 +1,7 @@
+com.loganalyzer.controller
+com.loganalyzer.model
+com.loganalyzer.service
+com.loganalyzer.service.analyzer
+com.loganalyzer.service.parser
+com.loganalyzer.service.parser.collector
+com.loganalyzer.service.validator
